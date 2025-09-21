@@ -11,13 +11,15 @@ Sometimes the full list of references doesn’t fit into an email or Substack po
 ## 📑 How It’s Organized
 Each article has its own folder:
 
-/sources  
-  ├── /2025-09-21-ai-coding-lexicon  
-  │     └── sources.md  
-  ├── /2025-08-29-vibecoding-vs-spec  
-  │     └── sources.md  
-  └── /2025-07-14-agentic-coding-experiments  
-        └── sources.md  
+```
+/sources
+├── /2025-09-21-ai-coding-lexicon
+│   └── sources.md
+├── /2025-08-29-vibecoding-vs-spec
+│   └── sources.md
+└── /2025-07-14-agentic-coding-experiments
+    └── sources.md 
+```
 
 
 - `sources.md` → plain list of links used in that article.  
